@@ -24,7 +24,11 @@ It is present on the dataset link in the location: ODIAC2020b -> 1km_tiff -> 201
     
 ## Screenshots
 
+Emission plotted on a map in mutiband color using QGIS:
+
 ![](https://github.com/saviolobo/Spatial-Data-Visualization/blob/main/1.png)
+
+Tweets plotted as points on a map with precise geolocation on the emission map.
 
 ![](https://github.com/saviolobo/Spatial-Data-Visualization/blob/main/2.png)
 
