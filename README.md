@@ -26,6 +26,8 @@ It is present on the dataset link in the location: ODIAC2020b -> 1km_tiff -> 201
 
 ![App Screenshot](https://github.com/saviolobo/Spatial-Data-Visualization/blob/main/1.png)
 
+![App Screenshot](https://github.com/saviolobo/Spatial-Data-Visualization/blob/main/2.png)
+
 
 ## References
 
