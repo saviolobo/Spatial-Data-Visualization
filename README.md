@@ -37,6 +37,7 @@ Tweets plotted as points on a map with precise geolocation on the emission map:
 
 ["ODIAC2020b"](https://db.cger.nies.go.jp/dataset/ODIAC/DL_odiac2020b.html) by Tomohiro Oda, Shamil Maksyutov is licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) [(Creative Commons Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/legalcode)
+/ plotting of this dataset using QGIS and then plotting of tweet points over that map.
 
 ### Data Citation:
 ODIAC2020b
