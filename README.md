@@ -35,14 +35,14 @@ Tweets plotted as points on a map with precise geolocation on the emission map:
 
 ## References
 
-[!["ODIAC2020b"](https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png)](https://db.cger.nies.go.jp/dataset/ODIAC/DL_odiac2020b.html) by Tomohiro Oda, Shamil Maksyutov is licensed under
+["ODIAC2020b"![](https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png)](https://db.cger.nies.go.jp/dataset/ODIAC/DL_odiac2020b.html) by Tomohiro Oda, Shamil Maksyutov is licensed under
 [CC BY 4.0![](https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png)](https://creativecommons.org/licenses/by/4.0/deed.en) [(Creative Commons Attribution 4.0 International)![](https://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 / plotting of this dataset using QGIS and then plotting of tweet points over it.
 
-External Icon
+["External Icon"](https://commons.wikimedia.org/wiki/File:Icon_External_Link.png)
 
-By MediaWiki, GPL, https://commons.wikimedia.org/w/index.php?curid=3726350
+<a href="https://commons.wikimedia.org/wiki/File:Icon_External_Link.png">MediaWiki</a>, <a href="http://www.gnu.org/licenses/gpl.html">GPL</a>, via Wikimedia Commons
 
 ### Data Citation:
 ODIAC2020b
