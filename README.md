@@ -39,6 +39,9 @@ Tweets plotted as points on a map with precise geolocation on the emission map:
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) [(Creative Commons Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/legalcode)
 / plotting of this dataset using QGIS and then plotting of tweet points over it.
 
+External Icon
+By MediaWiki, GPL, https://commons.wikimedia.org/w/index.php?curid=3726350
+
 ### Data Citation:
 ODIAC2020b
 Tomohiro Oda, Shamil Maksyutov (2015), ODIAC Fossil Fuel CO2 Emissions Dataset (Version name : ODIAC2020b), Center for Global Environmental Research, National Institute for Environmental Studies, [doi:10.17595/20170411.001](http://doi.org/10.17595/20170411.001). 
