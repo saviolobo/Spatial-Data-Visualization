@@ -40,8 +40,7 @@ Tweets plotted as points on a map with precise geolocation on the emission map:
 
 / plotting of this dataset using QGIS and then plotting of tweet points over it.
 
-["External Icon"](https://commons.wikimedia.org/wiki/File:Icon_External_Link.png)
-
+Attribution for the File:Icon External Link.png:
 <a href="https://commons.wikimedia.org/wiki/File:Icon_External_Link.png">MediaWiki</a>, <a href="http://www.gnu.org/licenses/gpl.html">GPL</a>, via Wikimedia Commons
 
 ### Data Citation:
